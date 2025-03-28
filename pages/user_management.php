@@ -130,8 +130,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['user_id'], $_POST['ro
 </header>
 
 <nav>
-    <a href="superadmin.php">Back to Dashboard</a>
-    <a href="welcome.php">Logout</a>
+    <a href="pages/superadmin.php">Back to Dashboard</a>
+    <a href="pages/welcome.php">Logout</a>
 </nav>
 
 <div class="container">

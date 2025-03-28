@@ -165,11 +165,11 @@
 
 <script>
   function redirectToLogin() {
-    window.location.href = "login.php";
+    window.location.href = "pages/login.php";
   }
 
   function redirectToRegister() {
-    window.location.href = "register.php";
+    window.location.href = "pages/register.php";
   }
 </script>
 

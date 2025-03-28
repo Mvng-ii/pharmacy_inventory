@@ -162,8 +162,8 @@ $medicines = $result->fetch_all(MYSQLI_ASSOC);
 </header>
 
 <nav>
-    <a href="doctorpage.php">Back to Dashboard</a>
-    <a href="welcome.php">Logout</a>
+    <a href="pages/doctorpage.php">Back to Dashboard</a>
+    <a href="pages/welcome.php">Logout</a>
 </nav>
 
 <div class="container">

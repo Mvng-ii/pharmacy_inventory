@@ -118,8 +118,8 @@ if ($result->num_rows > 0) {
 </header>
 
 <nav>
-    <a href="patientpage.php">Back to Dashboard</a>
-    <a href="welcome.php">Logout</a>
+    <a href="pages/patientpage.php">Back to Dashboard</a>
+    <a href="pages/welcome.php">Logout</a>
 </nav>
 
 <div class="container">

@@ -67,8 +67,8 @@ $user = $_SESSION['user'];
 </header>
 
 <nav>
-    <a href="view_prescriptions.php">View Prescriptions</a>
-    <a href="welcome.php">Logout</a>
+    <a href="pages/view_prescriptions.php">View Prescriptions</a>
+    <a href="pages/welcome.php">Logout</a>
 </nav>
 
 <div class="container">

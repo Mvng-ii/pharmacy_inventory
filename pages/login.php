@@ -130,7 +130,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <button type="submit">Login</button>
         </form>
         <?php if (isset($error)) echo "<p class='error'>$error</p>"; ?>
-        <p>Don't have an account? <a href="register.php">Register here</a>.</p>
+        <p>Don't have an account? <a href="pages/register.php">Register here</a>.</p>
     </div>
 </body>
 </html>
